@@ -5,8 +5,11 @@ A simple CRUD application for managing employee records using SQL. Allows users 
 # Features
 
 Create: Add new employee records.
+
 Read: View employee details.
+
 Update: Modify employee information.
+
 Delete: Remove employee records.
 
 # Usage
